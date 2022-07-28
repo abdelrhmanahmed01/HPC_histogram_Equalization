@@ -1,0 +1,30 @@
+﻿Build started...
+1>------ Build started: Project: HPC_ProjectTemplate, Configuration: Debug Win32 ------
+1>Build started 5/17/2022 5:25:14 PM.
+1>Target InitializeBuildStatus:
+1>  Creating "Debug\HPC_Proj.7AEBEE7C.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>Target GenerateTargetFrameworkMonikerAttribute:
+1>  Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+1>Target ClCompile:
+1>  Source.cpp
+1>  F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(129,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>  F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(174,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+1>Done building target "ClCompile" in project "HPC_ProjectTemplate.vcxproj".
+1>Target Link:
+1>  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+1>  HPC_ProjectTemplate.vcxproj -> F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
+1>Target FinalizeBuildStatus:
+1>  Deleting file "Debug\HPC_Proj.7AEBEE7C.tlog\unsuccessfulbuild".
+1>  Touching "Debug\HPC_Proj.7AEBEE7C.tlog\HPC_ProjectTemplate.lastbuildstate".
+1>
+1>Done building project "HPC_ProjectTemplate.vcxproj".
+1>
+1>Build succeeded.
+1>
+1>F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(129,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(174,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+1>    2 Warning(s)
+1>    0 Error(s)
+1>
+1>Time Elapsed 00:00:01.81
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

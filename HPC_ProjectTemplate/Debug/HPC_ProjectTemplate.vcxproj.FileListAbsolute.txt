@@ -1,0 +1,2 @@
+F:\download\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+F:\download\HPC_ProjectTemplate1\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
